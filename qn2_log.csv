@@ -1,0 +1,107 @@
+Exchanged Gifts Data:
+Couples :20071023,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20211040,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20321027,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20041009,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20051009,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20191039,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20381039,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20181027,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :20271023,Exchanged  Gifts:1,Price :450,Value :600
+Couples :20331031,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20451034,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :20261004,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20081013,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20391005,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :20031004,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20061025,Exchanged  Gifts:1,Price :450,Value :600
+Couples :20201029,Exchanged  Gifts:1,Price :450,Value :600
+Couples :20351014,Exchanged  Gifts:1,Price :450,Value :600
+Couples :20251001,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20231008,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :20161014,Exchanged  Gifts:1,Price :450,Value :600
+Couples :20221016,Exchanged  Gifts:1,Price :450,Value :600
+Couples :20241003,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :20421007,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20411020,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20291028,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20171016,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20311024,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20301032,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20441026,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :20401033,Exchanged  Gifts:3,Price :1350,Value :1800
+Couples :20101024,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20021001,Exchanged  Gifts:2,Price :900,Value :1200
+Couples :20281017,Exchanged  Gifts:2,Price :900,Value :1200
+34 are the most happiest couples.
+TimeStamp,C_id,Happiness
+Time :2017-02-26 21:49:35.432,20071023,Happiness : 3.7730203009299397E260
+Time :2017-02-26 21:49:35.432,20211040,Happiness : 1.3420848092419306E193
+Time :2017-02-26 21:49:35.432,20321027,Happiness : 3.759713994046786E184
+Time :2017-02-26 21:49:35.432,20041009,Happiness : 1.1501052352020995E178
+Time :2017-02-26 21:49:35.432,20051009,Happiness : 1.1501052352020995E178
+Time :2017-02-26 21:49:35.432,20191039,Happiness : 5.221469689764144E173
+Time :2017-02-26 21:49:35.432,20381039,Happiness : 5.221469689764144E173
+Time :2017-02-26 21:49:35.432,20181027,Happiness : 1.4503095588811105E163
+Time :2017-02-26 21:49:35.432,20271023,Happiness : 1.3937095806663797E65
+Time :2017-02-26 21:49:35.432,20331031,Happiness : 1.3041808783936323E52
+Time :2017-02-26 21:49:35.432,20451034,Happiness : 4302.0
+Time :2017-02-26 21:49:35.432,20261004,Happiness : 3244.0
+Time :2017-02-26 21:49:35.432,20081013,Happiness : 3000.0
+Time :2017-02-26 21:49:35.432,20391005,Happiness : 2613.0
+Time :2017-02-26 21:49:35.432,20031004,Happiness : 1721.0
+Time :2017-02-26 21:49:35.432,20061025,Happiness : 1200.0
+Time :2017-02-26 21:49:35.432,20201029,Happiness : 1200.0
+Time :2017-02-26 21:49:35.432,20351014,Happiness : 443.1020905255118
+Time :2017-02-26 21:49:35.432,20251001,Happiness : 423.4539295920577
+Time :2017-02-26 21:49:35.432,20231008,Happiness : 398.60205999132796
+Time :2017-02-26 21:49:35.432,20161014,Happiness : 203.10209052551184
+Time :2017-02-26 21:49:35.432,20221016,Happiness : 116.16136800223498
+Time :2017-02-26 21:49:35.432,20241003,Happiness : 98.59670702968144
+Time :2017-02-26 21:49:35.432,20421007,Happiness : 53.414973347970815
+Time :2017-02-26 21:49:35.432,20411020,Happiness : 53.380211241711606
+Time :2017-02-26 21:49:35.432,20291028,Happiness : 53.380211241711606
+Time :2017-02-26 21:49:35.432,20171016,Happiness : 50.49136169383427
+Time :2017-02-26 21:49:35.432,20311024,Happiness : 46.49136169383427
+Time :2017-02-26 21:49:35.432,20301032,Happiness : 22.44715803134222
+Time :2017-02-26 21:49:35.432,20441026,Happiness : 7.236096193424185
+Time :2017-02-26 21:49:35.432,20401033,Happiness : 7.214910046429337
+Time :2017-02-26 21:49:35.432,20101024,Happiness : 6.982723387668545
+Time :2017-02-26 21:49:35.432,20021001,Happiness : 6.907859184115457
+Time :2017-02-26 21:49:35.432,20281017,Happiness : 6.894316062684439
+34 are the most compatible couples.
+TimeStamp,C_id,Compatibility
+Time :2017-02-26 21:49:35.432,20171016,Compatibility :723.0
+Time :2017-02-26 21:49:35.432,20101024,Compatibility :713.0
+Time :2017-02-26 21:49:35.432,20201029,Compatibility :686.0
+Time :2017-02-26 21:49:35.432,20031004,Compatibility :630.0
+Time :2017-02-26 21:49:35.432,20311024,Compatibility :624.0
+Time :2017-02-26 21:49:35.432,20271023,Compatibility :612.0
+Time :2017-02-26 21:49:35.432,20181027,Compatibility :567.0
+Time :2017-02-26 21:49:35.432,20351014,Compatibility :545.0
+Time :2017-02-26 21:49:35.432,20021001,Compatibility :524.0
+Time :2017-02-26 21:49:35.432,20051009,Compatibility :491.0
+Time :2017-02-26 21:49:35.432,20281017,Compatibility :489.0
+Time :2017-02-26 21:49:35.432,20041009,Compatibility :479.0
+Time :2017-02-26 21:49:35.432,20071023,Compatibility :476.0
+Time :2017-02-26 21:49:35.432,20381039,Compatibility :464.0
+Time :2017-02-26 21:49:35.432,20191039,Compatibility :372.0
+Time :2017-02-26 21:49:35.432,20161014,Compatibility :338.0
+Time :2017-02-26 21:49:35.432,20261004,Compatibility :316.0
+Time :2017-02-26 21:49:35.432,20081013,Compatibility :285.0
+Time :2017-02-26 21:49:35.432,20321027,Compatibility :261.0
+Time :2017-02-26 21:49:35.432,20301032,Compatibility :241.0
+Time :2017-02-26 21:49:35.432,20421007,Compatibility :232.0
+Time :2017-02-26 21:49:35.432,20221016,Compatibility :212.0
+Time :2017-02-26 21:49:35.432,20441026,Compatibility :190.0
+Time :2017-02-26 21:49:35.432,20061025,Compatibility :173.0
+Time :2017-02-26 21:49:35.432,20391005,Compatibility :159.0
+Time :2017-02-26 21:49:35.432,20411020,Compatibility :152.0
+Time :2017-02-26 21:49:35.432,20251001,Compatibility :103.0
+Time :2017-02-26 21:49:35.432,20291028,Compatibility :92.0
+Time :2017-02-26 21:49:35.432,20211040,Compatibility :85.0
+Time :2017-02-26 21:49:35.432,20401033,Compatibility :83.0
+Time :2017-02-26 21:49:35.432,20231008,Compatibility :80.0
+Time :2017-02-26 21:49:35.432,20241003,Compatibility :73.0
+Time :2017-02-26 21:49:35.432,20331031,Compatibility :68.0
+Time :2017-02-26 21:49:35.432,20451034,Compatibility :49.0
