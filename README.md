@@ -7,10 +7,10 @@ Pratyush Tripathi
 
 This assignment was completed and tested using Eclipse Mars 2.0 and Windows 8.1 Desktop.
 
-Build Instructions:
-find the path for executable.jar located in : pplAssignment/jar/executable.jar 
-Then By using CommandLine: type the command: " java -jar "executable.jar"    "
-The input taken :
+Build Instructions:  
+find the path for executable.jar located in : pplAssignment/jar/executable.jar  
+Then By using CommandLine: type the command: " java -jar "executable.jar"    "  
+The input taken :  
 girl.csv , boy.csv , gift.csv
 The output generated for:
 Q1 in : qn1_TimeStamp.csv
